@@ -5,7 +5,7 @@ This project demonstrates a simple machine learning workflow for classifying gro
 ## Project Structure
 
 ```
-LiDAR_ML_Project/
+LiDAR Ground Classification/
 ├── data/
 │   ├── raw/
 │   │   └── lassen_point_cloud.laz    # Input LiDAR data
