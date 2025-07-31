@@ -1,0 +1,5 @@
+laspy[lazrs]
+numpy
+scikit-learn
+joblib
+open3d
