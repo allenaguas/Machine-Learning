@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Execute the main script from the project's root directory. This script will automatically run the data preparation, model training, and visualization steps in sequence.
 
 ```bash
-python run_simple_workflow.py
+python3 run_simple_workflow.py
 ```
 
 Upon completion, two Open3D windows will appear sequentially: one showing the ground truth classification and another showing the model's predictions.
